@@ -1,3 +1,5 @@
-# ML-WITH-PYTHON
-Please check the SELF_PROJECT notebook for the evaluation of my assignment.
-Thanks
+# Loan-Payoff-ML-model
+ 
+ Use loan_train.csv to train the model
+ 
+ Use loan_test to test it
